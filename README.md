@@ -15,3 +15,4 @@ Discord bot built from [discord.js](https://discord.js.org/#/). This bot is for 
 | :?rlevel | add roles to users as they level up |
 | :?rroles | check what roles are available when users level up |
 | :?bug | record a bug found and we will check it out asap! |
+[![Run on Repl.it](https://repl.it/badge/github/litochee/AmariBot)](https://repl.it/github/litochee/AmariBot)
